@@ -16,3 +16,6 @@ Usado pra pegar a cor do pixel e, de acordo com a palheta de cores dada, pegar a
 
 ## Como está funcionando
 A partir de uma imagem "base.jpg", na raiz do projeto, ele redimensiona a imagem e pega pixel por pixel da imagem comparando com a palheta requerida e salva uma imagem "nova.jpg".
+
+## Obs
+O módulo *paperjs* pode ajudar também, mas ele não está instalando corretamente
